@@ -1,0 +1,3 @@
+/home/yh/code/test_file/build/CMakeFiles/edit_cache.dir
+/home/yh/code/test_file/build/CMakeFiles/rebuild_cache.dir
+/home/yh/code/test_file/build/CMakeFiles/test_sqrt.dir

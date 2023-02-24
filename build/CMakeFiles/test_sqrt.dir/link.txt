@@ -1,0 +1,1 @@
+/opt/clang+llvm-14.0.0-x86_64-linux-gnu-ubuntu-18.04/bin/clang  -std=gnu++2a -g -rdynamic CMakeFiles/test_sqrt.dir/ReadBufferFromFIleBase.cpp.o CMakeFiles/test_sqrt.dir/ReadBufferFromFIleDescriptor.cpp.o CMakeFiles/test_sqrt.dir/ReadBufferFromFile.cpp.o CMakeFiles/test_sqrt.dir/main.cpp.o -o test_sqrt  -lstdc++ 
